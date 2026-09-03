@@ -119,6 +119,7 @@
 | `tInv` | Toggles Invincibility Scene flag. |
 | `tPick` | Toggles automatic pickup. |
 | `tDecals` | Toggles custom decal bases. |
+| `tCrack` | Makes the Decals bonkers, hehe. |
 | `Kill` | Kills the entire floor with a single flag. |
 
 ---
@@ -126,3 +127,8 @@
 ## License
 
 Distributed under the WTFPL License.
+
+
+### Demos
+[![#1 Bot](https://img.youtube.com/vi/QZe6So6wKZk/default.jpg)](https://youtu.be/QZe6So6wKZk)
+[![#2 Decals](https://img.youtube.com/vi/CvSCYK4vbuI/default.jpg)](https://youtu.be/CvSCYK4vbuI)
